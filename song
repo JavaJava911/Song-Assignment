@@ -1,0 +1,16 @@
+
+def bananas():
+    print("Being Bananas now is all that counts, this is WHO I am")
+    print("The Dr. says; Always take bananas to a party""\n""")
+    print ("Bananas are good, eat Bananas!")
+    print ("Monkeys eat Bananas, eat Bananas!")
+    print ("Bananas are good, 'WHO eats Banans?")
+    print ("Tall kids, short kids, little kids, fat kids,")
+    print ("skinny kids, big kids, all kids eat Bananas!")
+    print ("WHO'd  you say Doctor, eats Bananas?")
+    print ("Bananas are good""\n")
+    print ("I eat Bananas!!!")
+
+bananas( )
+bananas( )
+bananas( )
